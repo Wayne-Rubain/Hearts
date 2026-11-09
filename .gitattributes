@@ -1,0 +1,4 @@
+# Several sessions add entries at the top of these two files at once. Union merge keeps
+# both sides instead of stopping with a conflict (2026-11-05). Check the result reads right.
+CHANGELOG.md merge=union
+TODO.md merge=union

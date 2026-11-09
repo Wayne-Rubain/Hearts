@@ -1,0 +1,20 @@
+﻿# Build output
+bin/
+build/
+target/
+
+# Eclipse auto-generated settings (machine-specific)
+.settings/
+
+# Visual Studio per-user IDE state
+.vs/
+
+# Compiled classes
+*.class
+
+# Logs
+*.log
+
+# OS clutter
+Thumbs.db
+.DS_Store
